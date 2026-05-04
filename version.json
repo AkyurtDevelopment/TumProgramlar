@@ -1,12 +1,12 @@
 {
   "android": {
-    "latestVersion": "1.7",
+    "latestVersion": "1.8",
     "mandatory": true,
     "message": "Yeni özellikler eklendi! Lütfen uygulamayı güncelleyin. Güncelleme butonu çalışmazsa silip yeniden yükleyin.",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.akyurt.personelapp"
   },
   "ios": {
-    "latestVersion": "1.7",
+    "latestVersion": "1.8",
     "mandatory": true,
     "message": "Yeni özellikler eklendi! Lütfen uygulamayı güncelleyin.",
     "storeUrl": "https://apps.apple.com/app/id6756570517"
